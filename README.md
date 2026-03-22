@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Zuruq
 - 👀 I’m interested in front-end development.
 - 🌱 I’m currently learning javascript and html framework.
-- 💞️ I’m looking to collaborate on making blog websites
 - 🏠 I am currently living in Minna
 - 😄 I want to learn more about programming.
 
